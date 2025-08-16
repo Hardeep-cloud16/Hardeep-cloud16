@@ -11,7 +11,8 @@ Currently learning backend technologies including **Node.js, Express.js, and RES
 - Building mini web apps to practice full-stack development  
 
 ## 🌱 Currently Learning
-- Node.js, Express.js, REST API Development  
+- Node.js, Express.js, REST API Development
+ - Data Structures & Algorithms 
  
 
 ## 💻 Skills & Tools
